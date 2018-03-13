@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/destini-android-Kay360.iml" filepath="$PROJECT_DIR$/destini-android-Kay360.iml" />
+      <module fileurl="file://C:\Andriod Studio Projects\tess\destini-android-Kay360\destini-android-Kay360.iml" filepath="C:\Andriod Studio Projects\tess\destini-android-Kay360\destini-android-Kay360.iml" />
     </modules>
   </component>
 </project>

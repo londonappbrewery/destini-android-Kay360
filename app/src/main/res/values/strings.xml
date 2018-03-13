@@ -1,23 +1,747 @@
 <resources>
     <string name="app_name">Destini</string>
 
-    <string name="T1_Story">Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\". </string>
-    <string name="T1_Ans1">I\'ll hop in. Thanks for the help! </string>
-    <string name="T1_Ans2">Better ask him if he\'s a murderer first. </string>
+    <string name="T1_logo">ISLAMIC UNIVERSITY OF SCIENCE AND TECHNOLOGY</string>
+    <string name="T_6">Bank and Online Payment</string>
+    <string name="BankDetails">
+        <b>Fee Payment Modes and Banking Facility \n\n\n</b>
+        The University provided facility for the students to deposite the various fee like\n\n
+
+        Admission Fee\n
+        Semester Registration Fee\n
+        Examination Fee\n
+        Transport Fee\n
+        Hostel Fee\n
+        Other Fee\n\n
+
+    Through Both the methods Online and Offine mode \n\n\n\n
+        <b><u>Online Mode (Through Payment Gateway)</u></b>\n
+        Fee payment mode\n\n
+        1. Net-Banking\n
+        2. Credit Card\n
+        3. Debit Card\n
+        4. UPI\n
+        5. Wallets\n\n\n
+        <b><u>Offline Mode (Through JK Bank)</u></b>\n\n
+        The student has to pay their dues through challan generated from student login account and deposite
+        the challan in any branch of JK Bank.The JK Bank has opened its full fledged branch with ATM facility in the
+        University campus for the benefit of students and staff. The branch was inaugurated on 9th of November 2012.\n
+
+    </string>
+
+    <string name="T_Admin">ADMINSTRATION</string>
+    <string name="T_About"><b>Islamic University of Science and Technology</b> is a premier educational university, approved by UGC and recognised by AICTE. The institute was established in November 2005 and ranks among the best colleges in the segment. It offers a wide range of courses in various disciplines of science and technology. With its modern infrastructure facilities and a regularly updated library, it focuses on providing latest technological solutions to aid students in their studies. It has a lush green campus spread over several acres and located in the heart of the nature.</string>
+    <string name="T_Vc">Message from VC</string>
+    <string name="T_VcMessage"><b><u>Message from VC </u></b>\n\n
+    <b> Mushtaq A Siddiqi</b>\n\n
+    It is a moment of pride for me to address each and every student who aspires to be a part of the IUST family. The Islamic University of Science and Technology (IUST) was established in 2005 with an objective to create a fertile environment for young minds to blossom and develop into well-grounded torch bearers of our future. Since then, the university has been constantly striving not only to provide a thorough and in depth academic education to our students but also instill in them righteous and scrupulous values that will go a long way in sculpting a better present and by extension a reliable future.\n\n
+    Our motto is directed towards cultivating such a congenial environment on the campus so that students feel at ease while engaging in the plethora of curricular and co-curricular activities that the varsity has to offer. We will be promoting a culture of healthy dialogue and tolerance with emphasis on skill development in addition to a committed attitude towards learning and studies that is supplemented by our state of the art and avant-garde facilities. Our high quality and passionate faculty endeavors to aid and assist all the students in every possible way as we highly value our student community for they are truly the ambassadors and campaigners of our efforts. Faculty is assisted by most dedicated administrative and supportive staff members without whom the infrastructure required for achieving optimal growth of university would have been impossible.\n\n
+    IUST has witnessed gradual but steady growth in all the facets of achieving excellence. We have created modern laboratories, computing facilities, web connectivity, library facilities and better power connections. Insha Allah, with the completion and handing over of Lecture theatre block soon, smart classrooms will be available for the upcoming session of 2016. This coupled with sprawling, serene and green campus will provide a conducive environment for the overall growth of our student community for their transformation as educated youth and not literate youth. Our students are our assets in terms of societal commitments and we want to give our best in order to fulfill their dreams. We expect them to be disciplined and open for learning and become leaders in their respective specialties so as to make their alma matter, family and society proud of their achievements. It is important for all stakeholders like students, teachers, and other staff members of IUST to remain focused on their objectives of achieving excellence on the campus as well as in the society. It will give strength and motivation for next group of students to work hard for a greater cause in life. From our side, our primary focus will continue to make this institution a seat of world-class academic learning and research which will ultimately facilitate societal change through inculcating a scientific temper in our community.\n
+    I hope the students will benefit greatly by being a part of this university and in turn our present family also benefits from your moral and ethical values, intellect, prudence and wisdom. Wishing you all strength and success for your future.
+    Looking forward to seeing you on the campus of IUST soon.</string>
+
+    <string name="T_Dean">Deans of Schools </string>
+    <string name="T_noDean">\n
+    <b><u>Deans of Schools</u></b>\n\n\n
+    <b>Dean School of Health Sciences\n</b>
+
+         Prof. Mushtaq A. Siddiqi\n
 
 
-    <string name="T2_Story">He nods slowly, unphased by the question.</string>
-    <string name="T2_Ans1">At least he\'s honest. I\'ll climb in.</string>
-    <string name="T2_Ans2">Wait, I know how to change a tire.</string>
+        01933-247954,247954 / 1011 / 1013\n
+        vc@islamicuniversity.edu.in\n\n
+
+    <b> Dean School of Humanities / Sciences\n</b>
+         Prof. A.S. Bhat\n
+
+        Head Department of Economics\n
+        01933-247954 ,247954 / 1059\n
+        dean_sos@islamicuniversity.edu.in\n\n
+
+        <b>Dean School of Management Studies\n</b>
+        Prof. A.M. Shah\n
+
+        01933-247954,247954 / 1051\n
+        dean.sbs@islamicuniversity.edu.in\n\n
+
+        <b>Dean School of Technology\n</b>
+        Prof. A. H. Moon\n
+
+        Head Department of Electronics and Communication Engineering\n
+        01933-247954 ,247954\n
+        ayaz.moon@islamicuniversity.edu.in\n
+</string>
+    <string name="T_Transport">Transport Services</string>
+    <string name="T_TransportService">
+        <b>Transport Facility for Students and Staff </b>\n\n
+        The University has a fleet of buses plying on different routes like Srinagar, Shopian, Pulwama, Anantnag, and Tral.
+        The buses transport students and staff to and from campus on daily basis.
+        Allotment of the bus facility is limited and is made as per the vacancies available preferably to the girls’ students.
+        Students may avail private and government transport that constantly and frequently plies between different districts to University campus at Awantipora.
+        For availing or cancelation of transport facility go to student services and then create an account and then apply for transport facility.\n\n
+        <b> Buses plying on different routes</b>\n\n\n\n
+
+        01— BALSOO,KAIMO,WANPHOO,HARNAGH, IUST\n
+        02—NATIPORA,CHANIPORA,MATHEN,AHAMEDIYA HOSPITAL,NOWGAM,PANTHCHOWK ,IUST\n
+        03—MOLVI STOP,BUTKADAL,MIL STOP,ZADIBAL,ALAMGARI BAZAR,HAWAL,NOWHATTA,DALGATE ,IUST\n
+        04—BUS ADA TRAL,SHAIR ABAD,NOWDAL ,IUST\n
+        05—CHADURA, KRALPORA,BAGHMAHTAB,CHANIPORA,BYPASS,NOWGAM ,IUST\n
+        06—DIALGAM, BON DIALGAM, MOMINABAD, ASHAJIPORA, JANGLATMADI, LALCHOWK, KHANANBAL, KMDA, IUST\n
+        07—RAMBAGH,NATIPORA,NAIK BAGH,NOWGAM,PANTHCHOWK , IUST\n
+        08—HUMHAMA CHOWK, PEER BAGH,HYDERPORA BRIDGE,SANATNAGER,NOWGAM,LASJAN BRIDGE, IUST\n
+        09—RAMBAGH,SOLINA,TULSIBAGH,JAWAHARNAGER,RAJBAGH,TRC ,IUST\n
+        10--RANIWARI,KHANYAR,KHYAM,DALGATE,SONWAR,BATWARA,LASJAN,PAMPORE, IUST\n
+        11--KANITAR,UMMER COLONY,LALBAZAR,BUDSHAH MOLHA,MOLVI STOP,MILSTOP, IUST\n
+        12--GULAB BAGH VIA GREEN VALLEY SCHOOL, 90 FEET, P-S SOURA, ALI JAN ROAD , SEKDAFER, KARAN NAGAR , FIRE STATION BATMALOO , IUST\n
+        13--BUS ADA TRAL,SHAIR ABAD,NOWDAL ,IUST\n
+        14--BARBARSHAH,BOHRIKADAL,RAZIKADAL GOJWARA,NOWHATTA,TRC,SONWAR, IUST\n
+        15--PULWAMA,PRICHOO,GANGOO,PINGLINA,PAHOO,KAKAPORA,SAMBORA,GALANDER, IUST\n
+        16--OMPORA,BUDGAM,AIRPORT,PEERBAGH,HYDERPORA,SANATNAGER,CHANIPORA,BYPASS , IUST\n
+        17--HYDERPORA,PARRYPORA,BAGHAT,BARZULA,SANATNAGER,BYPASS, IUST\n
+        18--KANITAR,SADRIBAL,KU,NIET,SADAKADAL,RANIWARI,TRC , IUST\n
+        19--BEMINA,PARAMPORA,QAMERWARI,BATMALOO,FIRE SERVICE,TRC ,IUST\n
+        20--HABBAK,MALBAGH,ELLAHIBAGH,90 FEET,NOWSHARA,HAWAL,NOWHATTA,MUNWAR,TRC ,IUST\n
+        21--NARBAL,HMT,BEMINA,HYDERPORA BYPASS, IUST\n
+        21-A--HARWAN,SHALIMAR,NISHAT,BRAIN,SONWAR, IUST\n
+        21-B--KAMARWARI CROSSING, BEMINA CROSSING, IQBALABAD, GRID STATION, BEMINA BYEPASS, IUST\n
+        22--RANGRATH,RAWALPORA,SANATNAGER,BYPASS, IUST\n
+        23--DIALGAM,BON DIALGAM,MOMIN ABAD,AASHIPORA,JANGLAT MANDI,LAL CHOWK, IUST\n
+        24--SHOPIAN,SOOFANAMA,SHARIMAL,TOOKRO,KEIGAM,HALL,NAIKES,BUNDZOO,PULWAMA,KOIL, IUST\n
+        25--TRAL BUS STAND,TRALI BALA,AMIR ABAD,MIR,DADASARA,CHANDRIGAM,NOORPORA ,IUST\n
+        26--AHMADNAGER,90 FEET, SOURA, ALAMGARI BAZAR,NOWHATTA,GOWSIYA HOSPITAL KHYAM, DALGATE, IUST\n
+        27--AALI MASJID,EIDGAH,SAFAKADAL,KARANAGER,BATMALOO,LAL CHOWK ,IUST\n
+        28--SOURA,ALIJAN ROAD,NALIMAR ROAD RAJOURI KADAL,BABDEM,TRC, IUST\n
+        29--PANDASH,NAGBAL,GULABAGH,ZAKOORA CROOSING,HABBAK,KU,RANIWARI,DALGATE ,IUST\n
+        30--MUJGUND,HMT,BEMINA,HYDERPORA BYPASS ,IUST\n
+        31--MATTAN,IQBAL ABAD,SARNEL,LAZIBAL,SADIQ ABAD, IUST\n
+        32--SRIGUFWARA,CHENIWADER, KANELWON, THUJWARA, TAKIBAL, ZIRPARA, PADSHAHBAGH , IUST\n
+        33--NARBAL, HMT, BEMINA, HYDERPORA BYEPASS, NOWGAM BYEPASS, IUST\n
+        34--NISHAT, BRAIN, KRALSAGRI, NEHRUPARK, DALGATE, TRC, SONWAR, PANTHACHOWK, PAMPORE, IUST\n
+        35--NATIPORA, CHANPORA, BAGHEMETAB, KRALPORA, IUST\n
+        36--KULGAM,KAIMO,WANPHOO,HARNAGH, IUST\n
+        37--RAJPORA, PULWAMA,TANGPONA,KOIL,LAJURA,MALANGPORA ,IUST\n
+        38--LAZIBAL, KHANABAL, BIJBEHARA, IUST\n
+        39--MOLVI STOP, KANITAR, KU, NIET, RANIWARI, KHANYAR, DALGATE, PAMPORE, IUST\n
+        40--PANDCH, NAGBAL, AHMADNAGAR-90 FEET, ELLAHI BAGH, SOURA,ALAMGARI BAZAR,HAWAL, NOWHATTA,KHAYAM,DALGATE,IUST\n
+        41--WATHURA (PETROL PUMP), KRALPORA, BAGH-E-MEHTAB, CHANAPORA, PANTHACHOWK, SEMPORA, PAMPORE, IUST.\n
+        42--NATIPORA CHOWK, CHANAPORA FLYOVER, CHADOORA, CHRAR-I-SHARIEF\n
 
 
-    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
-    <string name="T3_Ans1">I love Elton John! Hand him the cassette tape.</string>
-    <string name="T3_Ans2">It\'s him or me! You take the knife and stab him.</string>
 
 
-    <string name="T4_End">What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?</string>
-    <string name="T5_End">As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.</string>
-    <string name="T6_End">You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: \"Try the pier.\"</string>
+            </string>
+    <string name="T_IT_Section">It Section</string>
+    <string name="T_ITdetails">
+        <b><u>It Section</u></b>
+        \n <b>Mr.Sameer Wazir\n</b>
+            I/C IT\n
+            01933-247954 / 1030\n
+            sameer.wazir@islamicuniversity.edu.in\n\n\n
+        <b><u>Staff in the Section</u></b>\n\n
+        <b>Moazam Ul Shawkat Qadiri\n</b>
+            IT Assistant\n
+                moazam.qadri@islamicuniversity.edu.in\n
+            01933-247954 Ext: 1044\n
+            9906961075\n
+        \n\n
+        <b>Sarfaraz Ahmad Bhat\n</b>
+            IT Assistant\n
+                sarfaraz.bhat@islamicuniversity.edu.in\n
+            01933-247954 / 1044\n
+            9622278742 / 7006151671 \n
+
+
+
+
+    </string>
+
+    <string name="T_Department">DEPARTMENT</string>
+    <string name="T_DeptEng">School of Technology</string>
+    <string name="Civil">Civil Department</string>
+    <string name="Electrical">Electrical Department</string>
+    <string name="Mechanical">Mechanical Department</string>
+    <string name="Electronics">Electronics and Communication Department</string>
+    <string name="Computer">Computer Science and Engineering Department</string>
+    <string name="Food">Electrical Department</string>
+    <string name="Msg">Message from HOD</string>
+    <string name="Faculty">Faculty Members</string>
+    <string name="Syllabus">Syllabus</string>
+
+    <string name="MsgCse">\n<b>HOD\'s Message</b>\n
+
+        MR. SYED MUJTIBA HUSSAIN\n\n
+        The Department of Computer Science and Engineering was established in 2007 to provide technical skills and expertise in the fast growing
+        field of computer engineering. The Department is well recogniz…\n
+        </string>
+    <string name="FacultyCse">\n Head of the Department\n\n
+        MR. SYED MUJTIBA HUSSAIN\n
+        Assistant Professor\n
+        syed.mujtiba@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n\n
+
+        Faculty\n\n
+
+        MR. ASSIF ASSAD\n
+        Assistant Professor\n
+        assifassad@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. SAJAAD AHMED LONE\n
+        Assistant Professor\n
+        sajaad.lone@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. ASIF ALI BANKA\n
+        Assistant Professor\n
+        asifbanka@yahoo.co.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+    </string>
+    <string name="SyllabusCse">
+    </string>
+
+    <string name="MsgCivil">\n<b>HOD\'s Message</b>\n
+        MRS. MISBA GULL\n\n
+        The Department of Civil Engineering was established in the academic session 2009.
+        The Department offers instructions at undergraduate level leading to four year B.Tech.
+        Degree in the faculty of Civil …\n\n
+    </string>
+    <string name="FacultyCivil">
+        Head of the Department\n
+        MRS. MISBA GULL\n
+        Assistant Professor\n
+        misbagul@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n\n
+
+        Faculty of Civil\n\n
+
+        ER. MOHD. IQBAL MIRZA\n
+        Assistant Professor\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+        MR. SHUJAAT HUSSAIN\n
+        Assistant Professor\n
+        shujaat.hussain@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+        MR. RIYAZ AHMED QASAB\n
+        Assistant Professor\n
+        raqasb@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+        MR. MOHD DILAWAR BHAT\n
+        Assistant Professor\n
+        dilawar.bhat@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+    </string>
+    <string name="SyllabusCivil"> </string>
+
+    <string name="MsgElectrical">\n
+        <b>HOD\'s Message</b>\n\n
+        DR. SHAHKAR AHMAD NAHVI\n\n
+        The Department of Electrical Engineering has trained faculty and staff who provide basic training
+        in analysis and design of electrical energy systems, including, broadly, systems employed for generat…
+    </string>
+    <string name="FacultyElectrical">
+        \n
+        Head of the Department\n\n
+
+        DR. SHAHKAR AHMAD NAHVI\n
+        Assistant Professor\n
+        s.a.nahvi@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n\n
+
+        Faculty Members\n\n
+
+        MR. ZAHOOR AHMAD GANIE\n
+        Assistant Professor\n
+        ZAHOOR.GANIE@ISLAMICUNIVERSITY.EDU.IN\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. RAYES AHMAD LONE\n
+        Assistant Professor\n
+        rayeslone@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MRS. SAMI JAN LOLU\n
+        Assistant Professor\n
+        sammymanzoor@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MS. SALIAH FAROOQ\n
+        Assistant Professor\n
+        SOLIHAFAROQ@GMAIL.COM\n
+        Contact : +91 (01933) 247954 - Ext.\n
+
+    </string>
+    <string name="SyllabusElectrical"></string>
+
+    <string name="MsgElectronics">
+        \n<b> HOD\'s Message</b>\n
+        PROF. A. H. MOON\n\n
+        The Department of Electronics and Communication Engineering was established in 2007,
+        with the intake capacity of forty five (45) students. This was gradually increased to Sixty (60) till 2010. With the…
+    </string>
+    <string name="FacultyElectronics">
+        \n
+        Head of the Department\n\n
+        PROF. A. H. MOON\n
+        Professor\n
+        ayaz.moon@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n\n
+        Faculty Members\n\n
+
+        DR. KHALID MUZZAFAR\n
+        Assistant Professor\n
+        khalid.muzaffar@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext\n\n
+
+        MRS. ROMANA YOUSUF\n
+        Assistant Professor\n
+        romana.yousuf@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+        DR. FAROZE AHMAD\n
+        Assistant Professor\n
+        drferoz07@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+        DR. ASIFA MEHRAJ BABA\n
+        Assistant Professor\n
+        asifababa@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+    </string>
+    <string name="SyllabusElectronics"></string>
+
+    <string name="MsgFood">
+        \n<b> HOD\'s Message</b>\n
+         PROF. MOHD ASHRAF MIR\n\n
+        With modern infrastructural and well equipped laboratories, the Department of Food Technology aims
+        at the establishment of an Excellent Quality Control Centre for the assessment of the quality of foo…
+    </string>
+    <string name="FacultyFood">
+        \n
+        Head of the Department\n\n
+        PROF. MOHD ASHRAF MIR\n
+        Professor\n
+        ma_mir2004@yahoo.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n\n
+
+        Faculty Members\n\n
+
+        DR. ABIDA JABEEN\n
+        Assistant Professor\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. TARIQ AHMAD GANAIE\n
+        Assistant Professor\n
+        tariqtech@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. THAMEED AIJAZ\n
+        Assistant Professor\n
+        tahmeedshah@yahoo.co.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. BASHARAT NABI DAR\n
+        Assistant Professor\n
+        darnabi@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+    </string>
+    <string name="SyllabusFood"></string>
+
+    <string name="MsgMech">
+        \n<b> HOD\'s Message</b>\n
+         DR. MAJID HAMEED KOUL\n\n
+        Mechanical Engineering is a discipline concerned with the synthesis, analyses,
+        and design of various electro-mechanical systems. Regarded as one of the oldest and broadest branch of engineering, this…
+
+    </string>
+    <string name="FacultyMech">
+        \n
+        Head of the Department\n\n
+        DR. MAJID HAMEED KOUL\n
+        Assistant Professor\n
+        majidkoul@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n\n
+
+        Faculty Members\n\n
+
+        MR. SAKIB AHMAD BHAT\n
+        Assistant Professor\n
+        sakib1910@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. UMAR RASHID DASS\n
+        Assistant Professor\n
+        umarrashid253@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. GULFAM GUL\n
+        Assistant Professor\n
+        gullgulfam672@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. FAYAZ AHMAD MIR\n
+        Assistant Professor\n
+        Fayaz32d@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n
+        Thrust area : industrial and production engineering,quality control engineering\n\n
+
+        MR. SHEHIN P U\n
+        Assistant Professor\n
+        pushehin@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+    </string>
+    <string name="SyllabusMech"></string>
+
+
+    <string name="T_Management">School of Management Studies</string>
+    <string name="Business">Department of Business Studies</string>
+    <string name="Economics">Department of Economics</string>
+    <string name="FacultyB">
+        \n
+        Head of the Department\n\n
+        DR. ASIF IQBAL FAZILI\n
+        Assistant Professor\n
+        asif.fazili@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n\n
+
+        Faculty Members\n\n
+
+        DR. PARVEZ AHMAD MIR\n
+        Assistant Professor\n
+        mirparvez7@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. ANISA JAN\n
+        Assistant Professor\n
+        anisa.jan@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. MOHD ASIF BASHIR NAQESHBANDI\n
+        Assistant Professor\n
+        asif.naqshbandi@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. MOHD ASHRAF PARRY\n
+        Assistat Professor\n
+        ma.parry@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+    </string>
+    <string name="SyllabusB"></string>
+    <string name="FacultyEconomics">
+        \n
+        Head of the Department\n\n
+        PROF. A. S. BHAT\n
+        Professor\n
+        dean_sos@islamicuniversity.edu.in\n\n\n
+
+        Faculty Members\n\n
+
+        DR. NAVEED AHMAD LONE\n
+        Assistant Professor\n
+        naveed.lone@islamicuniversity.edu.in\n\n
+
+        DR. JAVID AHMAD KHAN\n
+        Assistant Professor\n
+        khanjavideco@gmail.com\n\n
+
+        MR. FIRDOUS AHMAD MAGRAY\n
+        Assistant Professor\n
+        sagarfirdous88@gmail.com\n\n
+    </string>
+    <string name="SyllabusEconomics"></string>
+
+
+    <string name="T_PostGrad">School of Sciences</string>
+    <string name="Physics">Department of Physics</string>
+    <string name="Chemistry">Department of Chemistry</string>
+    <string name="Maths">Department of Maths</string>
+    <string name="MsgMaths">\n<b> HOD\'s Message</b>\n
+         DR. FOZIA S. QAZI\n\n\n
+        The Department of Mathematics is one of the few math departments in the country to offer a program
+        in actuarial mathematics and the only such department in Jammu and Kashmir. It supports the Univers…
+    </string>
+    <string name="FacultyMaths">
+         \n
+        Head of the Department\n\n
+        DR. FOZIA S. QAZI\n
+        Professor\n
+        fozia.qazi@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.
+
+        \n\n\nFaculty Members\n\n
+
+        DR. PEER BILAL AHMAD\n
+        Assistant Professor\n
+        peer.bilal@islamicuniversity.edu.in\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. SHABROZE HASSAN BHAT\n
+        Assistant Professor\n
+        shabrozehassanbhat@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. MOHD. MUZAMIL BHAT\n
+        Assistant Professor\n
+        mmuzamilbhat@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. ROUF UR RAFIQ\n
+        Assistant Professor\n
+        roufevs13@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n</string>
+
+    <string name="SyllabusMaths"></string>
+
+    <string name="MsgPhysics">\n<b> HOD\'s Message</b>\n
+     MR. FAROOQ HUSSAIN BHAT\n\n\n
+        The Department of Physics envisions being a center of excellence in higher education and research. T
+        he way of imparting education will be such as to prepare the dynamic graduating students ready to…
+</string>
+    <string name="FacultyPhysics">
+         \nHead of the Department\n\n
+        MR. FAROOQ HUSSAIN BHAT\n
+        Assistant Professor\n
+        fhbhat@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.
+        \n\n\nFaculty Members\n\n
+
+        DR. MIR HASHIM RASOOL\n
+        Assistant Professor\n
+        hrasool23@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. PARVAIZ AHMAD KHAN\n
+        Assistant Professor\n
+        khan.parvaiz80@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        MR. AJAZ AHMAD MIR\n
+        Assistant Professor\n
+        ajazmir5394@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. RAYEES AHMAD ZARGAR\n
+        Assistant Professor\n
+        rayeesphy12@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+    </string>
+    <string name="SyllabusPhysics"></string>
+
+    <string name="MsgChemistry">
+        \n<b> HOD\'s Message</b>\n
+         PROF. M. A. QURISHI\n\n\n
+        Islamic University of Science and Technology has launched Masters Programme in chemistry in 2016
+        to cater the requirements for education sector of the state as well as to provide skilled man power fo...
+    </string>
+    <string name="FacultyChemistry">\nHead of the Department\n\n
+        PROF. M. A. QURISHI\n
+        Professor\n
+        Contact : +91 (01933) 247954 - Ext.
+
+        \n\n\nFaculty Members\n\n
+
+        DR. AABID HUSSAIN SHALLA\n
+        Assistant Professor\n
+        sheenf@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. SHEIKH ABDUL MAJID\n
+        Assistant Professor\n
+        ali.majid66@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. NISAR AHMAD MALIK\n
+        Assistant Professor\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+        DR. MANZOOR AHMAD RATHER\n
+        Assistant Professor\n
+        manzooriiim@gmail.com\n
+        Contact : +91 (01933) 247954 - Ext.\n\n
+
+
+    </string>
+    <string name="SyllabusChemistry"></string>
+
+
+
+    <string name="T_Student">STUDENT SERVICE</string>
+    <string name="Career">Career Counseling and Placement Cell</string>
+    <string name="CareerDetails"><b>Career Counseling and Placement Cell</b>\n\n
+        The holistic development of the students at Islamic University of Science and Technology leads graduates
+        of our university stand apart and motto of career counseling and placement cell is to facilitate placement
+        and assure achieving a challenging career through career development programs, sharing the hands-on experience
+        gained from orientation on entrepreneurship and innovations at company internships. All aspects of the cell focus
+        on helping students to reach their dream job. \n
+        MBA students got placed with world's best corporates. Some of the leading recruiters are Practo, Think and Learn,
+        Colgate Pamolive, Bajaj Electrical, Redington, MRF, Bridgestone, Wipro CCLG, Canara Bank, Madura, Axis Bank,
+        ICICI Securities, RBS, WNS, Ocwen Financial Services etc \n\n\n
+
+        <b>Structure of Career Counseling and Placement Cell</b>\n\n
+
+        We function in two domains; Placements and Trainings\n\n
+
+        Placements\n
+        This division facilitates placements by actively reaching out to the Corporate World. We try to achieve this objective
+            by having a targeted approach towards the three major stakeholders in the placement process i.e. the Students,
+            the Companies and the University.\n\n
+        Trainings\n
+        This division focuses on building an interface between academia and industrial training. Interface facilitates the
+        process of curriculum development as per professional needs of the industry by making it more dynamic and job oriented.
+        This is made possible by facilitating training of students at different corporate and public sectors. Also continuous
+        interaction with the industry by way Guest Lectures and Workshops etc is enabled for better orientation of students at
+        industry level. The constantly changing paradigms, in response to growing complexity of the business environment, today,
+        have necessitated that universities and industry, which for long have been operating in separate domains should come
+        closer to each other for creating synergies. Failure to recognize each other’s role can potentially give rise to mismatch
+        between demand and supply of quality manpower which in turn can cause disruption in the job market. In the present times
+        of knowledge economy, a productive interface between academia and industry is a critical requirement. \n\n\n\n
+        <b>Contact Info</b>\n\n
+
+        Dr. S. Iqbal Querishi\n
+        (Incharge Career Counselling and Placement Officer)\n
+        -iqbalquryshi@gmail.com\n
+        -placements@islamicuniversity.edu.in\n
+        +91 (01933) 247954 , 247955 / 1108\n
+    </string>
+
+    <string name="Hostel">Hostels</string>
+    <string name="HostelDetails"><b>Hostels</b>\n\n\n
+    IUST currently provides the facilities of two hostels, one-each for boys and girls in close vicinity of the campus and each
+        caters to the needs of students from far flung areas of the state including, Kargil, Doda, Rajouri and areas of North
+        Kashmir. These hostels are provided 24x7 power backup and suitable environment for studying as well as recreation. For
+        allotment, preference is given to meritorious students from far-flung areas. The Hostel mess is run by students themselves
+        with all logistic support from the University.\n\n </string>
+
+
+
+
+    <string name="SexualHarras">Sexual Harassment Committee</string>
+    <string name="SexualHarrasDetails"><b>Sexual Harassment Committee\n\n</b>
+    <b>Committee to examine the complaints of sexual harassment</b>\n\n
+    In pursuance to UGC guidlines committee is constituted to address the sexual harassment and violence against women in the
+    University\n\n\n
+    <b> Chairperson\n\n
+    Prof. Fozia S. Qazi\n
+    Head Department of Mathematics\n
+    fozia.qazi@islamicuniversity.edu.in\n
+    01933-247954 Ex: 1080 / 1081\n\n\n
+
+    Member Committee\n\n
+    Dr. Munejah Khan\n
+    I/C Head\n
+    Department of English Language Litrature\n
+    munejahk@gmail.com\n
+    01933-247954 Ex: 1089\n\n\n
+
+    Member Committee\n\n
+    Dr. Anisa Jan\n
+    Assistant Professor\n
+    Department of Business Studies\n
+    anisa.jan@islamicuniversity.edu.in\n
+    01933-247954 Ex: 1051 / 1054 	Member Committee\n\n\n
+
+    Member Committee\n
+    Dr. Rumaan Bashir\n
+    I/C Head\n
+    Department of Computer Science\n
+        umaan.b@islamicuniversity.edu.in\n
+    01933-247954 Ex: 1068 / 1067\n\n\n
+
+    Member Secretary\n\n
+    Proctor\n
+    Proctor of the University\n
+        01933-247954 Ex: 1045 \n\n</b>
+    </string>
+
+    <string name="AntiRag">Anti-Ragging Committee </string>
+<string name="AntiRagDetails"><b>National Anti Ragging Help Line (UGC Crisis Hotline)\n\n</b>
+        24x7 Toll Free Number* 1800-180-5522\n
+        (helpline@antiragging.in)\n
+        <u>Apply online for Anti-Ragging Affidavit\n</u>
+
+        \n\nAnti-Ragging Committee\n
+        Anti-Ragging committee is constituted for prevention of ragging at the campus and in hostels\n\n
+        Prof. M.A. Qurishi\n
+        Dean Academic Affairs / HOD Department of Chemistry\n
+        daa@islamicuniversity.edu.in\n
+        01933-247954 Ext: 1059 \n	Member Committee\n\n
+        Prof. K.A. Tarzan\n
+        Dean Students Welfare\n
+            dsw@islamicuniversity.edu.in\n
+        01933-247954 Ext: 1105 \n	Member Committee\n\n
+        Dr. Munejah Khan\n
+        I/C Head\n
+        Department of English Language Litrature\n
+            munejahk@gmail.com\n
+        01933-247954 Ex: 1089 \n	Member Committee\n\n
+        Dr. Ruheela Hassan\n
+        I/C Head\n
+        Department of Journalism and Mass Communication\n
+            ruheela.hassan@islamicuniversity.edu.in\n
+        01933-247954 Ex: 1097 	\nMember Committee\n\n
+        Dr. Abid Hussain Shalla\n
+        Proctor / Assistant Professor\n
+        Department of Chemistry\n
+            sheenf@gmail.com\n
+        01933-247954 Ex: 2037 \n	Member Committee\n\n
+        Dr. Shahkar Ahmad Nahvi\n
+        I/C Head\n
+        Department of Electrical Engineering\n
+            s.a.nahvi@gmail.com\n
+        01933-247954 Ex: 2124 \n	Member Committee \n\n
+
+        </string>
+    <string name="Medical">Medical Facilities</string>
+    <string name="MedicalDetails">
+        <b>University Health Centre\n\n\n</b>
+        The University has its own health Centre with qualified doctors and para-medical staff. The Centre looks
+        after the health problems of the students and the employees especially those who live on the Campus.The
+        University has developed a modest on campus dispensary with a Medical Consultant and other supporting staff
+        attending the students and staff. The dispensary is well equipped to take care of minor health ailments and
+        give first aid in case of emergency. The dispensary also has an Ambulance which is used to transport students/staff
+        to the nearest medical centre in case of any eventuality. The overall objective of centre is to provide health care
+        that is quality oriented and sensitive to need of the students and staff of the university. \n\n\n
+
+        <b>Staff in the Center</b>\n\n
+        HR and other Infrastructure avaliable in the centre.\n
+        1. Dr. Zahida Rasool\n
+        Medical Consultant\n
+            +91 (01933) 247954 , 247955\n
+        2. Paramedical Staff \n	+91 (01933) 247954 , 247955\n
+        3. Attendant 	\n
+        4. House Keeping Staff \n\n\n
+        <b>Services / Facilities\n\n</b>
+        1. First Aid\n
+        2. One Ambulance avaliable 24 x7 which is used to transport students / staff to the nearest medical centre
+        in case of any emergency.\n
+        3. OPD Facility\n
+        4. Free Health Checkup\n
+        5. Free Medicines for Students and Staff\n
+        6. Refral of Patients to other hospitals when in need \n
+
+
+    </string>
+
+    <string name="T_Social">SOCIAL</string>
+    <string name="Contactus"><b>Contact us</b>\n\n\n
+        <b><u>Address</u></b>\n\n
+        1-University Avenue.\n
+        Awantipora, Pulwama, Pin -192122\n
+        Jammu and Kashmir\n\n\n
+         <b><u>Phone Numbers</u></b>\n\n
+        Tel: +91 (01933) 247954 / 247955\n
+        <b><u>Email id</u></b>\n\n
+        Email: info@islamicuniversity.edu.in\n\n\n
+        <b><u>Twitter</u></b>\n\n
+        https://twitter.com/iustjk\n\n
+
+        <b><u>FaceBook</u></b>\n\n
+        https://www.facebook.com/iustjk\n\n
+</string>
+    <string name="loc"><b><u>IUST Location</u></b>\n\n
+        IUST is situated under the bottom of Hell.Fresh bullshit will hit you everytime you step into
+    this School of Thorns built on the graves of the dementors. </string>
+    <string name="T_Location">LOCATION</string>
 
 </resources>
